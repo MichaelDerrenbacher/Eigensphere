@@ -18,4 +18,4 @@ ______________
 
 
 Code is entirely my own and was written during the Winter of 2018.
-During this project I learned more about coordinate systems, plotting techniques, and what eigenvectors and values actually look like. 
+During this project I learned more about coordinate systems, plotting techniques, and what eigenvectors and values actually look like. Project was inspired by my calc IV professor who showed a pre-calculated demonstration of a 2-D visualizer. My V1 is different as it is calculates the eigenvectors in real time geometrically rather than beforehand.
