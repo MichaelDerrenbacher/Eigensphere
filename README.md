@@ -17,4 +17,5 @@ V3 is the commented final version
 ______________
 
 
-Code is entirely my own and was written during the Winter of 2018
+Code is entirely my own and was written during the Winter of 2018.
+During this project I learned more about coordinate systems, plotting techniques, and what eigenvectors and values actually look like. 
