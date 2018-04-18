@@ -1,5 +1,7 @@
 # Eigensphere
 
+## Overview
+
 Graphical visualizer of 3 dimensional eigenvectors
 
 Code takes an input matrix A and scales it with vectors modeling a unit sphere.
@@ -7,6 +9,7 @@ Code takes an input matrix A and scales it with vectors modeling a unit sphere.
 
 ________________________________________________________________________________________
 
+## Verisons
 
 eigencheck.m is used in V1 only, it finds the angles between to vectors
 
@@ -25,6 +28,8 @@ For example A = [1 2 0 ; 2 1 0; 0 0 0]; = [1 2 ; 2 1]
 For this reason V3 functionally encompasses V1 as it can do lower dimensions.
 
 __________
+
+## Final Note
 
 Code is entirely my own and was written during the Winter of 2018.
 During this project I learned more about coordinate systems, plotting techniques, and what eigenvectors and values actually look like. Project was inspired by my calc IV professor who showed a pre-calculated demonstration of a 2-D visualizer. My V1 is different as it is calculates the eigenvectors in real time geometrically rather than beforehand.
