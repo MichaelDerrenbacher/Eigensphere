@@ -14,3 +14,7 @@ V1 is a 2-dimensional variant used to test the concept, has minimal commenting
 V2 is a prototype of V3, functional works but has an extremely high runtime
 
 V3 is the commented final version
+______________
+
+
+Code is entirely my own and was written during the Winter of 2018
