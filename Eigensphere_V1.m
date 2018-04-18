@@ -3,9 +3,9 @@ clear
 clear figure
 
 % --------USER INPUT-----------
-A = [5 5; -2 -1];    
+A = [1 3; 2 1];    
 
-epsilion = .000075;           
+epsilion = .001;           
 
 step = .01;                  
 
@@ -86,5 +86,3 @@ for i = 1:loops
     delete(children(2)); 
 end
 drawnow
-% quiver(0,0,B(1),B(2),'r')
-% quiver(0, 0, xcom(i), ycom(i),'b')
